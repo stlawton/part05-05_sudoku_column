@@ -14,7 +14,7 @@ sudoku = [
   [3, 0, 0, 0, 0, 0, 0, 0, 2]  
 ]
 
-print(column_correct(sudoku, 0))
+print(column_correct(sudoku, 0))  
 print(column_correct(sudoku, 1))
 
 Sample output
